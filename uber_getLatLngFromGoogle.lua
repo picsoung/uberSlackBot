@@ -21,7 +21,6 @@ return function(request, next_middleware)
     local start_point = request.args.start_point
     local end_point = request.args.end_point
 
-    console.log(end_latlng)
     getLatLng(start_point,end_point)
 
     request.args.start_latitude = start_latlng.lat

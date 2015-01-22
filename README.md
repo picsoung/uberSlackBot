@@ -10,9 +10,9 @@ Command to post in a Slack channel
 ### examples
 `uber price start=ATT park, san francisco end=dolores park, san francisco`
 
-result
+result:
 
-![Screenshot Uber estime ATT Park to Dolores](https://i.imgur.com/IHEPK8J.png)
+![Screenshot Uber estime ATT Park to Dolores](http://i.imgur.com/kFbvEk8.png?1)
 
 Failed request `uber price Heaven to Hell`
 

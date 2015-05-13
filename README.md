@@ -28,7 +28,7 @@ Request in a city that does not have Uber availble
   - Uber API account, [create one](https://developer.uber.com/)
   - Google Maps API account, [create one](https://console.developers.google.com/)
   - Slack organization, [create one](https://slack.com/)
-  - APItools account, [create one](https://apitools.com)
+  - APItools account, [create one](https://apitools.com?ref=uberbot)
   - Time :)
 
   
